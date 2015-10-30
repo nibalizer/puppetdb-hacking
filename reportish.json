@@ -1,0 +1,15 @@
+{"command": "store report",
+"version":3,
+"payload": {
+    "certname": "mymachine.fqdn",
+    "environment": "production",
+    "puppet-version": "3.8.3",
+    "report-format": 4,
+    "configuration-version": "1446174019",
+    "start-time": "2015-10-23T18:25:43.511Z",
+    "end-time": "2015-10-23T19:25:43.511Z",
+    "resource-events": [],
+    "transaction-uuid": "4d129e28-15b3-4bb7-82dd-b97adba66d80",
+    "status": "failed"
+  }
+}
